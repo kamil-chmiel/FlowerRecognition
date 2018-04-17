@@ -7,7 +7,7 @@ Identifying the type of flower from the captured photo for iOS devices in Swift
 ---
 
 ## Description
-Flower Recognition App allows us to get informations about the plant we are looking at in a simple way.
+Flower Recognition App allows us to get information about the plant we are looking at in a simple way.
 We use oxford102.caffemodel converted to FlowerClassifier.mlmodel using python script and coremltools. With converted model we are able to recognize the type of the flower from captured photo, get the information using Wikipedia API and show it to the user.
 
 ---
